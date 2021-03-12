@@ -9,7 +9,7 @@
 * 版本：`Git` 熟悉 `Gitee` 熟悉 `GitHub` 熟悉
 * 其他：`Linux` 了解 `Nginx` 了解
 ## 开源项目
-* [Markdown 简历编辑器](https://github.com/1024-cool/MartinResume) `Vue 全家桶` `Star 85` 
+* [Markdown 简历编辑器](https://github.com/1024-cool/MartinResume) `Vue 全家桶` `Star 86` 
   - 使用`Markdown Vue` 编辑器组件实现的一个 `Markdown To PDF` 简历编辑器
 ## 工作经历
 ### 北京数字冰雹（ 2020 年 10 月 ~ 至今）（前端开发、技术经理、项目经理）
